@@ -50,6 +50,7 @@ Don't forget to use perform()!
                 .click(clickE)
                 .perform();
 
+
         // actions.moveToElement(doubleClickButton).pause(Duration.ofSeconds(1)).doubleClick().build().perform(); This is another way (pauses for 1 second)
 
         // With the actions object, we can perform right-click, double click, hover over an element, and scroll actions.
