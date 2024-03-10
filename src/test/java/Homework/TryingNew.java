@@ -7,7 +7,7 @@ public class TryingNew {
         System.out.println("3rd code");
 
 
-        System.out.println("somethinggit diff");
+        System.out.println("something git diff");
         System.out.println("This one from git");
     }
 }
