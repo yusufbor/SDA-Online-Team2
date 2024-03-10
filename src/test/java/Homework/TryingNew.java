@@ -8,5 +8,6 @@ public class TryingNew {
 
 
         System.out.println("somethinggit diff");
+        System.out.println("This one from git");
     }
 }
